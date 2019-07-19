@@ -1,0 +1,23 @@
+2019-06-03 18:08:12.587 [      main]TRACE                          - Initializing the log file in before suit.
+2019-06-03 18:08:12.611 [      main]TRACE                          - beforeTest annotation is being executed for the test : ChromeTest
+2019-06-03 18:08:12.626 [      main]TRACE                          - Enviroment taken as : qa
+2019-06-03 18:08:12.626 [      main]TRACE                          - Enviroment file taken  as : D:\Users\SURESH\eclipse-workspace\reports\sampleproject\Config\Config_qa.properties
+2019-06-03 18:08:12.642 [      main]TRACE                          - Executing the test case : CE_003_pim_CreateANewEmployee_custom_empId
+2019-06-03 18:08:12.642 [      main]TRACE                          - Entering into the method launchApplication with browser : chromeurl : https://opensource-demo.orangehrmlive.com
+2019-06-03 18:08:17.536 [      main]INFO                           - browser launched.
+2019-06-03 18:08:23.333 [      main]INFO                           - navigated to https://opensource-demo.orangehrmlive.com
+2019-06-03 18:08:23.333 [      main]INFO                           - verifying application launch is success or not.
+2019-06-03 18:08:23.896 [      main]TRACE                          - Launch Application is executed successfully.
+2019-06-03 18:08:24.802 [      main]INFO                           - Entering the value : admin into the object : By.xpath: //input[@id='txtUsername']
+2019-06-03 18:08:25.112 [      main]INFO                           - Entering the value : admin123 into the object : By.id: txtPassword
+2019-06-03 18:08:34.378 [      main]TRACE                          - Entering into method : enter_employee_details
+2019-06-03 18:08:34.378 [      main]INFO                           - Entering the value : David into the object : By.id: firstName
+2019-06-03 18:08:34.717 [      main]INFO                           - Entering the value : dsadsa into the object : By.id: middleName
+2019-06-03 18:08:35.017 [      main]INFO                           - Entering the value : Warner into the object : By.id: lastName
+2019-06-03 18:08:35.313 [      main]INFO                           - Entering the value : e1214 into the object : By.id: employeeId
+2019-06-03 18:08:35.548 [      main]TRACE                          - Completed the method : enter_employee_details
+2019-06-03 18:08:38.965 [      main]INFO                           - Entering the value : OS0932DA32 into the object : By.id: personal_txtLicenNo
+2019-06-03 18:08:39.484 [      main]TRACE                          - Select Calendar with date : 45092.0
+2019-06-03 18:08:39.488 [      main]ERROR                          - [Ljava.lang.StackTraceElement;@6622a690
+2019-06-03 18:08:39.504 [      main]TRACE                          - Completed the test case : CE_003_pim_CreateANewEmployee_custom_empId
+2019-06-03 18:08:40.259 [      main]TRACE                          - Execution has been completed.

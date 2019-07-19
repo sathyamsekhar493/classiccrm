@@ -1,0 +1,13 @@
+2019-06-08 12:33:13.749 [      main]TRACE                          - Initializing the log file in before suit.
+2019-06-08 12:33:13.759 [      main]TRACE                          - beforeTest annotation is being executed for the test : Default test
+2019-06-08 12:33:13.928 [      main]TRACE                          - Enviroment taken as : qa
+2019-06-08 12:33:13.928 [      main]TRACE                          - Enviroment file taken  as : G:\sampleproject\Config\Config_qa.properties
+2019-06-08 12:33:13.947 [      main]TRACE                          - Executing the test case : CE_002_pim_CreateANewEmployee_W_Credentials
+2019-06-08 12:33:14.006 [      main]TRACE                          - Entering into the method launchApplication with browser : chromeurl : https://opensource-demo.orangehrmlive.com
+2019-06-08 12:33:25.564 [      main]INFO                           - browser launched.
+2019-06-08 12:33:41.001 [      main]INFO                           - navigated to https://opensource-demo.orangehrmlive.com
+2019-06-08 12:33:41.001 [      main]INFO                           - verifying application launch is success or not.
+2019-06-08 12:33:44.351 [      main]TRACE                          - Launch Application is executed successfully.
+2019-06-08 12:33:44.459 [      main]TRACE                          - Entering into the Getting Workbook
+2019-06-08 12:33:45.375 [      main]TRACE                          - Completed the test case : CE_002_pim_CreateANewEmployee_W_Credentials
+2019-06-08 12:33:51.043 [      main]TRACE                          - Execution has been completed.

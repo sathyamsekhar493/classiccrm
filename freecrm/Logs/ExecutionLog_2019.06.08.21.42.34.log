@@ -1,0 +1,5 @@
+2019-06-08 21:42:34.774 [      main]TRACE                          - Initializing the log file in before suit.
+2019-06-08 21:42:34.785 [      main]TRACE                          - beforeTest annotation is being executed for the test : ChromeTest
+2019-06-08 21:42:34.798 [      main]TRACE                          - Enviroment taken as : qa
+2019-06-08 21:42:34.798 [      main]TRACE                          - Enviroment file taken  as : G:\sampleproject\Config\Config_qa.properties
+2019-06-08 21:42:35.415 [      main]TRACE                          - Execution has been completed.

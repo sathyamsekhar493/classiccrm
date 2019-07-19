@@ -1,0 +1,20 @@
+2019-06-05 18:41:26.382 [      main]TRACE                          - Initializing the log file in before suit.
+2019-06-05 18:41:26.417 [      main]TRACE                          - beforeTest annotation is being executed for the test : Default test
+2019-06-05 18:41:26.457 [      main]TRACE                          - Enviroment taken as : qa
+2019-06-05 18:41:26.462 [      main]TRACE                          - Enviroment file taken  as : E:\Orange_Hrm_Project\sampleproject\Config\Config_qa.properties
+2019-06-05 18:41:26.520 [      main]TRACE                          - Executing the test case : AL_001_DashBoard_Assign_Leave
+2019-06-05 18:41:26.547 [      main]TRACE                          - Entering into the method launchApplication with browser : chromeurl : https://opensource-demo.orangehrmlive.com
+2019-06-05 18:42:00.539 [      main]INFO                           - browser launched.
+2019-06-05 18:42:06.869 [      main]INFO                           - navigated to https://opensource-demo.orangehrmlive.com
+2019-06-05 18:42:06.870 [      main]INFO                           - verifying application launch is success or not.
+2019-06-05 18:42:10.367 [      main]TRACE                          - Launch Application is executed successfully.
+2019-06-05 18:42:10.393 [      main]TRACE                          - Executing Business Flow For: AL_001_DashBoard_Assign_Leave
+2019-06-05 18:42:10.471 [      main]TRACE                          - Entering into the Getting Workbook
+2019-06-05 18:42:19.338 [      main]INFO                           - Succesfully found File: E:\Orange_Hrm_Project\sampleproject\TestData\pim.xlsx
+2019-06-05 18:42:19.338 [      main]INFO                           - File Exist
+2019-06-05 18:42:19.339 [      main]TRACE                          - Succesfully get the Workbook Data
+2019-06-05 18:42:19.432 [      main]INFO                           - Entering the value : admin into the object : By.xpath: //input[@id='txtUsername']
+2019-06-05 18:42:21.560 [      main]INFO                           - Entering the value : admin123 into the object : By.id: txtPassword
+2019-06-05 18:42:30.649 [      main]TRACE                          - Navigating to The Dashboard Page
+2019-06-05 18:42:30.880 [      main]TRACE                          - Completed the test case : AL_001_DashBoard_Assign_Leave
+2019-06-05 18:42:40.848 [      main]TRACE                          - Execution has been completed.

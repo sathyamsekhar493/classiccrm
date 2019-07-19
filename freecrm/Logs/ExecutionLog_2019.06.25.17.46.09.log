@@ -1,0 +1,30 @@
+2019-06-25 17:46:09.887 [      main]TRACE                          - Initializing the log file in before suit.
+2019-06-25 17:46:09.906 [      main]TRACE                          - beforeTest annotation is being executed for the test : Default test
+2019-06-25 17:46:09.906 [      main]TRACE                          - Enviroment taken as : qa
+2019-06-25 17:46:09.906 [      main]TRACE                          - Enviroment file taken  as : F:\Dummy\sampleproject\Config\Config_qa.properties
+2019-06-25 17:46:09.922 [      main]TRACE                          - Executing the test case : CE_002_crm_CreateANewCompany
+2019-06-25 17:46:09.938 [      main]TRACE                          - Entering into the method launchApplication with browser : chromeurl : https://www.crmpro.com/index.html
+2019-06-25 17:46:13.282 [      main]INFO                           - browser launched.
+2019-06-25 17:46:19.820 [      main]INFO                           - navigated to https://www.crmpro.com/index.html
+2019-06-25 17:46:19.820 [      main]INFO                           - verifying application launch is success or not.
+2019-06-25 17:46:20.446 [      main]TRACE                          - Launch Application is executed successfully.
+2019-06-25 17:46:20.454 [      main]INFO                           - Executing the business flow for : CE_001_crm_CreateANewCompany
+2019-06-25 17:46:20.458 [      main]TRACE                          - Entering into the Getting Workbook
+2019-06-25 17:46:21.445 [      main]INFO                           - Succesfully found File: F:\Dummy\sampleproject\TestData\company.xlsx
+2019-06-25 17:46:21.445 [      main]INFO                           - File Exist
+2019-06-25 17:46:21.445 [      main]TRACE                          - Succesfully get the Workbook Data
+2019-06-25 17:46:21.487 [      main]INFO                           - Entering the value : sathyamsekhar493 into the object : By.name: username
+2019-06-25 17:46:21.953 [      main]INFO                           - Entering the value : soma1995 into the object : By.name: password
+2019-06-25 17:46:30.089 [      main]TRACE                          - Entering into method : enter_employee_details
+2019-06-25 17:46:30.090 [      main]INFO                           - Entering the value : userdata into the object : By.id: company_name
+2019-06-25 17:46:30.299 [      main]INFO                           - Entering the value : CIVIL into the object : By.name: industry
+2019-06-25 17:46:30.457 [      main]INFO                           - Entering the value : 250851 into the object : By.id: annual_revenue
+2019-06-25 17:46:30.622 [      main]INFO                           - Entering the value : 50 into the object : By.id: num_of_employees
+2019-06-25 17:46:30.764 [      main]INFO                           - Entering the value : 9652314789 into the object : By.name: phone
+2019-06-25 17:46:31.781 [      main]INFO                           - Entering the value : userdata.civil@yaho.co.in into the object : By.id: email
+2019-06-25 17:46:33.391 [      main]INFO                           - Entering the value : userdata.civil@yaho.co.in into the object : By.id: search
+2019-06-25 17:46:34.148 [      main]INFO                           - Switching to main browser
+2019-06-25 17:46:34.216 [      main]TRACE                          - Completed the method : enter_employee_details
+2019-06-25 17:46:38.745 [      main]TRACE                          - Clicked on New Event Link
+2019-06-25 17:46:38.749 [      main]TRACE                          - Completed the test case : CE_002_crm_CreateANewCompany
+2019-06-25 17:46:39.249 [      main]TRACE                          - Execution has been completed.

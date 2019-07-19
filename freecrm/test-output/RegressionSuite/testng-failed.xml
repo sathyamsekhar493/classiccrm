@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [RegressionSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="ChromeTest(failed)">
+    <parameter name="environment" value="qa"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="tests.pim.CreateCompany">
+        <methods>
+          <include name="beforeSuite"/>
+          <include name="beforeMethod"/>
+          <include name="beforeTest"/>
+          <include name="CE_001_crm_CreateANewCompany"/>
+          <include name="afterSuite"/>
+          <include name="afterTest"/>
+          <include name="aferMethod"/>
+        </methods>
+      </class> <!-- tests.pim.CreateCompany -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+</suite> <!-- Failed suite [RegressionSuite] -->

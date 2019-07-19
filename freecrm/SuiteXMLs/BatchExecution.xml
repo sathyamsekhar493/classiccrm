@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="RegressionSuite">
+
+	<test thread-count="5" verbose="2" name="ChromeTest">
+		<parameter name="browser" value="chrome" />
+		<parameter name="environment" value="qa" />
+		<classes>
+			<class name="tests.freecrm.CreateCompany">
+				<methods>
+					<include name="CE_002_crm_CreateANewCompany" />
+				</methods>
+			</class>
+		</classes>
+	</test> <!-- Default test -->
+
+
+</suite> <!-- Default suite -->
+            

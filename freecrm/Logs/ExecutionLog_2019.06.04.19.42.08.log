@@ -1,0 +1,5 @@
+2019-06-04 19:42:12.111 [      main]TRACE                          - Initializing the log file in before suit.
+2019-06-04 19:42:12.140 [      main]TRACE                          - beforeTest annotation is being executed for the test : ChromeTest
+2019-06-04 19:42:12.312 [      main]TRACE                          - Enviroment taken as : qa
+2019-06-04 19:42:12.313 [      main]TRACE                          - Enviroment file taken  as : E:\Orange_Hrm_Project\sampleproject\Config\Config_qa.properties
+2019-06-04 19:42:14.671 [      main]TRACE                          - Execution has been completed.

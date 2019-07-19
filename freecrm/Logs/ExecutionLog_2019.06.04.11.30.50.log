@@ -1,0 +1,14 @@
+2019-06-04 11:30:53.142 [      main]TRACE                          - Initializing the log file in before suit.
+2019-06-04 11:30:53.171 [      main]TRACE                          - beforeTest annotation is being executed for the test : Default test
+2019-06-04 11:30:53.191 [      main]TRACE                          - Enviroment taken as : qa
+2019-06-04 11:30:53.192 [      main]TRACE                          - Enviroment file taken  as : E:\Orange_Hrm_Project\sampleproject\Config\Config_qa.properties
+2019-06-04 11:30:53.229 [      main]TRACE                          - Executing the test case : CE_003_pim_CreateANewEmployee_custom_empId
+2019-06-04 11:30:53.242 [      main]TRACE                          - Entering into the method launchApplication with browser : chromeurl : https://opensource-demo.orangehrmlive.com
+2019-06-04 11:31:05.101 [      main]INFO                           - browser launched.
+2019-06-04 11:31:13.632 [      main]INFO                           - navigated to https://opensource-demo.orangehrmlive.com
+2019-06-04 11:31:13.636 [      main]INFO                           - verifying application launch is success or not.
+2019-06-04 11:31:16.417 [      main]TRACE                          - Launch Application is executed successfully.
+2019-06-04 11:31:16.433 [      main]INFO                           - Executing the business flow for : CE_003_pim_CreateANewEmployee_custom_empId
+2019-06-04 11:31:16.440 [      main]INFO                           - Succesfully found File: E:\Orange_Hrm_Project\sampleproject\TestData2\OrangeHrm.xlsx
+2019-06-04 11:31:17.168 [      main]TRACE                          - Completed the test case : CE_003_pim_CreateANewEmployee_custom_empId
+2019-06-04 11:31:20.403 [      main]TRACE                          - Execution has been completed.

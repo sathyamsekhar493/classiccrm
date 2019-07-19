@@ -1,0 +1,10 @@
+2019-05-30 17:29:02.511 [      main]TRACE                          - Initializing the log file in before suit.
+2019-05-30 17:29:02.524 [      main]TRACE                          - beforeTest annotation is being executed for the test : ChromeTest
+2019-05-30 17:29:02.533 [      main]TRACE                          - Enviroment taken as : qa
+2019-05-30 17:29:02.533 [      main]TRACE                          - Enviroment file taken  as : D:\Users\SURESH\eclipse-workspace\reports\sampleproject\Config\Config_qa.properties
+2019-05-30 17:29:02.561 [      main]TRACE                          - Entering into the method launchApplication with browser : chromeurl : https://opensource-demo.orangehrmlive.com
+2019-05-30 17:29:06.691 [      main]INFO                           - browser launched.
+2019-05-30 17:29:15.772 [      main]INFO                           - navigated to https://opensource-demo.orangehrmlive.com
+2019-05-30 17:29:15.772 [      main]INFO                           - verifying application launch is success or not.
+2019-05-30 17:29:16.300 [      main]TRACE                          - Launch Application is executed successfully.
+2019-05-30 17:30:00.360 [      main]TRACE                          - Execution has been completed.

@@ -1,0 +1,33 @@
+2019-06-11 13:50:03.721 [      main]TRACE                          - Initializing the log file in before suit.
+2019-06-11 13:50:03.737 [      main]TRACE                          - beforeTest annotation is being executed for the test : ChromeTest
+2019-06-11 13:50:03.737 [      main]TRACE                          - Enviroment taken as : qa
+2019-06-11 13:50:03.737 [      main]TRACE                          - Enviroment file taken  as : F:\Dummy\sampleproject\Config\Config_qa.properties
+2019-06-11 13:50:03.768 [      main]TRACE                          - Executing the test case : CE_001_crm_CreateANewCompany
+2019-06-11 13:50:03.784 [      main]TRACE                          - Entering into the method launchApplication with browser : chromeurl : https://www.crmpro.com/index.html
+2019-06-11 13:50:07.432 [      main]INFO                           - browser launched.
+2019-06-11 13:50:13.688 [      main]INFO                           - navigated to https://www.crmpro.com/index.html
+2019-06-11 13:50:13.688 [      main]INFO                           - verifying application launch is success or not.
+2019-06-11 13:50:14.153 [      main]TRACE                          - Launch Application is executed successfully.
+2019-06-11 13:50:14.160 [      main]INFO                           - Executing the business flow for : CE_001_crm_CreateANewCompany
+2019-06-11 13:50:14.162 [      main]TRACE                          - Entering into the Getting Workbook
+2019-06-11 13:50:15.168 [      main]INFO                           - Succesfully found File: F:\Dummy\sampleproject\TestData\company.xlsx
+2019-06-11 13:50:15.169 [      main]INFO                           - File Exist
+2019-06-11 13:50:15.169 [      main]TRACE                          - Succesfully get the Workbook Data
+2019-06-11 13:50:15.187 [      main]INFO                           - Entering the value : sathyamsekhar493 into the object : By.name: username
+2019-06-11 13:50:15.948 [      main]INFO                           - Entering the value : soma1995 into the object : By.name: password
+2019-06-11 13:50:21.251 [      main]TRACE                          - Entering into method : enter_employee_details
+2019-06-11 13:50:21.251 [      main]INFO                           - Entering the value : Test into the object : By.id: company_name
+2019-06-11 13:50:21.418 [      main]INFO                           - Entering the value : IT into the object : By.name: industry
+2019-06-11 13:50:21.559 [      main]INFO                           - Entering the value : 60000.0 into the object : By.id: annual_revenue
+2019-06-11 13:50:21.729 [      main]INFO                           - Entering the value : 50.0 into the object : By.id: num_of_employees
+2019-06-11 13:50:21.881 [      main]INFO                           - Entering the value : 9.87456231E9 into the object : By.name: phone
+2019-06-11 13:50:22.846 [      main]INFO                           - Entering the value : test@it.com into the object : By.id: email
+2019-06-11 13:50:23.067 [      main]INFO                           - Entering the value : Home into the object : By.name: address_title
+2019-06-11 13:50:23.418 [      main]INFO                           - Entering the value : h no 49-1a-254, aicobo nagar into the object : By.name: address
+2019-06-11 13:50:23.703 [      main]INFO                           - Entering the value : banglore into the object : By.name: city
+2019-06-11 13:50:23.879 [      main]INFO                           - Entering the value : karnataka into the object : By.name: state
+2019-06-11 13:50:24.080 [      main]INFO                           - Entering the value : 500068.0 into the object : By.name: postcode
+2019-06-11 13:50:24.289 [      main]INFO                           - Entering the value : India into the object : By.name: country
+2019-06-11 13:50:24.480 [      main]TRACE                          - Completed the method : enter_employee_details
+2019-06-11 13:50:46.808 [      main]TRACE                          - Completed the test case : CE_001_crm_CreateANewCompany
+2019-06-11 13:50:47.378 [      main]TRACE                          - Execution has been completed.

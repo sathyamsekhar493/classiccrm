@@ -1,0 +1,17 @@
+2019-06-08 23:32:35.641 [      main]TRACE                          - Initializing the log file in before suit.
+2019-06-08 23:32:35.664 [      main]TRACE                          - beforeTest annotation is being executed for the test : ChromeTest
+2019-06-08 23:32:35.732 [      main]TRACE                          - Enviroment taken as : qa
+2019-06-08 23:32:35.733 [      main]TRACE                          - Enviroment file taken  as : F:\Dummy\sampleproject\Config\Config_qa.properties
+2019-06-08 23:32:35.751 [      main]TRACE                          - Executing the test case : CE_003_pim_CreateANewEmployee_custom_empId
+2019-06-08 23:32:35.764 [      main]TRACE                          - Entering into the method launchApplication with browser : chromeurl : https://www.crmpro.com/index.html
+2019-06-08 23:32:46.725 [      main]INFO                           - browser launched.
+2019-06-08 23:32:53.151 [      main]INFO                           - navigated to https://www.crmpro.com/index.html
+2019-06-08 23:32:53.151 [      main]INFO                           - verifying application launch is success or not.
+2019-06-08 23:32:54.101 [      main]TRACE                          - Launch Application is executed successfully.
+2019-06-08 23:32:54.106 [      main]INFO                           - Executing the business flow for : CE_003_pim_CreateANewEmployee_custom_empId
+2019-06-08 23:32:54.130 [      main]TRACE                          - Entering into the Getting Workbook
+2019-06-08 23:32:55.812 [      main]INFO                           - Succesfully found File: F:\Dummy\sampleproject\TestData\pim.xlsx
+2019-06-08 23:32:55.812 [      main]INFO                           - File Exist
+2019-06-08 23:32:55.813 [      main]TRACE                          - Succesfully get the Workbook Data
+2019-06-08 23:32:55.852 [      main]INFO                           - Entering the value : sathyamsekhar493 into the object : By.name: username
+2019-06-08 23:32:56.883 [      main]INFO                           - Entering the value : soma1995 into the object : By.name: password

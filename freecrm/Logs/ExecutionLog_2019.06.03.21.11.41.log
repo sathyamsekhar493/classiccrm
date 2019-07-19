@@ -1,0 +1,14 @@
+2019-06-03 21:11:44.283 [      main]TRACE                          - Initializing the log file in before suit.
+2019-06-03 21:11:44.322 [      main]TRACE                          - beforeTest annotation is being executed for the test : ChromeTest
+2019-06-03 21:11:44.363 [      main]TRACE                          - Enviroment taken as : qa
+2019-06-03 21:11:44.364 [      main]TRACE                          - Enviroment file taken  as : E:\Orange_Hrm_Project\sampleproject\Config\Config_qa.properties
+2019-06-03 21:11:44.424 [      main]TRACE                          - Executing the test case : CE_003_pim_CreateANewEmployee_custom_empId
+2019-06-03 21:11:44.449 [      main]TRACE                          - Entering into the method launchApplication with browser : chromeurl : https://opensource-demo.orangehrmlive.com
+2019-06-03 21:11:55.944 [      main]INFO                           - browser launched.
+2019-06-03 21:12:02.714 [      main]INFO                           - navigated to https://opensource-demo.orangehrmlive.com
+2019-06-03 21:12:02.715 [      main]INFO                           - verifying application launch is success or not.
+2019-06-03 21:12:03.990 [      main]TRACE                          - Launch Application is executed successfully.
+2019-06-03 21:12:04.012 [      main]INFO                           - Executing the business flow for : CE_003_pim_CreateANewEmployee_custom_empId
+2019-06-03 21:12:04.017 [      main]INFO                           - Entering the value : admin into the object : By.xpath: //input[@id='txtUsername']
+2019-06-03 21:12:04.593 [      main]INFO                           - Entering the value : admin123 into the object : By.id: txtPassword
+2019-06-03 21:12:14.663 [      main]TRACE                          - Entering into method : enter_employee_details

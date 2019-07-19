@@ -1,0 +1,19 @@
+2019-07-14 13:25:39.418 [      main]TRACE                          - Initializing the log file in before suit.
+2019-07-14 13:25:39.534 [      main]TRACE                          - beforeTest annotation is being executed for the test : Default test
+2019-07-14 13:25:39.675 [      main]TRACE                          - Enviroment taken as : qa
+2019-07-14 13:25:39.675 [      main]TRACE                          - Enviroment file taken  as : F:\Dummy\sampleproject\Config\Config_qa.properties
+2019-07-14 13:25:39.784 [      main]TRACE                          - Executing the test case : CE_001_crm_CreateANewCompany
+2019-07-14 13:25:39.894 [      main]TRACE                          - Entering into the method launchApplication with browser : chromeurl : https://www.crmpro.com/index.html
+2019-07-14 13:25:52.208 [      main]INFO                           - browser launched.
+2019-07-14 13:26:03.146 [      main]INFO                           - navigated to https://www.crmpro.com/index.html
+2019-07-14 13:26:03.146 [      main]INFO                           - verifying application launch is success or not.
+2019-07-14 13:26:04.080 [      main]TRACE                          - Launch Application is executed successfully.
+2019-07-14 13:26:04.088 [      main]INFO                           - Executing the business flow for : CE_001_crm_CreateANewCompany
+2019-07-14 13:26:04.224 [      main]TRACE                          - Entering into the Getting Workbook
+2019-07-14 13:26:07.074 [      main]INFO                           - Succesfully found File: F:\Dummy\sampleproject\TestData\company.xlsx
+2019-07-14 13:26:07.074 [      main]INFO                           - File Exist
+2019-07-14 13:26:07.074 [      main]TRACE                          - Succesfully get the Workbook Data
+2019-07-14 13:26:07.144 [      main]INFO                           - Entering the value : sathyamsekhar493 into the object : By.name: username
+2019-07-14 13:26:07.604 [      main]INFO                           - Entering the value : soma1995 into the object : By.name: password
+2019-07-14 13:26:14.829 [      main]TRACE                          - Completed the test case : CE_001_crm_CreateANewCompany
+2019-07-14 13:26:16.154 [      main]TRACE                          - Execution has been completed.

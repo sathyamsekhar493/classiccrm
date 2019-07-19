@@ -1,0 +1,16 @@
+2019-06-03 22:27:10.998 [      main]TRACE                          - Initializing the log file in before suit.
+2019-06-03 22:27:11.030 [      main]TRACE                          - beforeTest annotation is being executed for the test : ChromeTest
+2019-06-03 22:27:11.057 [      main]TRACE                          - Enviroment taken as : qa
+2019-06-03 22:27:11.058 [      main]TRACE                          - Enviroment file taken  as : E:\Orange_Hrm_Project\sampleproject\Config\Config_qa.properties
+2019-06-03 22:27:11.101 [      main]TRACE                          - Executing the test case : CE_003_pim_CreateANewEmployee_custom_empId
+2019-06-03 22:27:11.117 [      main]TRACE                          - Entering into the method launchApplication with browser : chromeurl : https://opensource-demo.orangehrmlive.com
+2019-06-03 22:27:22.789 [      main]INFO                           - browser launched.
+2019-06-03 22:27:29.611 [      main]INFO                           - navigated to https://opensource-demo.orangehrmlive.com
+2019-06-03 22:27:29.612 [      main]INFO                           - verifying application launch is success or not.
+2019-06-03 22:27:30.448 [      main]TRACE                          - Launch Application is executed successfully.
+2019-06-03 22:27:30.466 [      main]INFO                           - Executing the business flow for : CE_003_pim_CreateANewEmployee_custom_empId
+2019-06-03 22:27:30.471 [      main]INFO                           - Entering the value : admin into the object : By.xpath: //input[@id='txtUsername']
+2019-06-03 22:27:30.911 [      main]INFO                           - Entering the value : admin123 into the object : By.id: txtPassword
+2019-06-03 22:27:40.402 [      main]TRACE                          - Entering into method : enter_employee_details
+2019-06-03 22:27:40.447 [      main]TRACE                          - Completed the test case : CE_003_pim_CreateANewEmployee_custom_empId
+2019-06-03 22:27:42.871 [      main]TRACE                          - Execution has been completed.

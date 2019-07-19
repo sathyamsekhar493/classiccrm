@@ -1,0 +1,25 @@
+2019-06-04 13:38:02.935 [      main]TRACE                          - Initializing the log file in before suit.
+2019-06-04 13:38:02.964 [      main]TRACE                          - beforeTest annotation is being executed for the test : ChromeTest
+2019-06-04 13:38:02.994 [      main]TRACE                          - Enviroment taken as : qa
+2019-06-04 13:38:02.995 [      main]TRACE                          - Enviroment file taken  as : E:\Orange_Hrm_Project\sampleproject\Config\Config_qa.properties
+2019-06-04 13:38:03.027 [      main]TRACE                          - Executing the test case : CE_003_pim_CreateANewEmployee_custom_empId
+2019-06-04 13:38:03.049 [      main]TRACE                          - Entering into the method launchApplication with browser : chromeurl : https://opensource-demo.orangehrmlive.com
+2019-06-04 13:38:17.500 [      main]INFO                           - browser launched.
+2019-06-04 13:38:29.908 [      main]INFO                           - navigated to https://opensource-demo.orangehrmlive.com
+2019-06-04 13:38:29.909 [      main]INFO                           - verifying application launch is success or not.
+2019-06-04 13:38:31.340 [      main]TRACE                          - Launch Application is executed successfully.
+2019-06-04 13:38:31.353 [      main]INFO                           - Executing the business flow for : CE_003_pim_CreateANewEmployee_custom_empId
+2019-06-04 13:38:31.447 [      main]TRACE                          - Entering into the Getting Workbook
+2019-06-04 13:38:34.704 [      main]INFO                           - Succesfully found File: E:\Orange_Hrm_Project\sampleproject\TestData\pim.xlsx
+2019-06-04 13:38:34.717 [      main]INFO                           - File Exist
+2019-06-04 13:38:34.717 [      main]TRACE                          - Succesfully get the Workbook Data
+2019-06-04 13:38:34.875 [      main]INFO                           - Entering the value : admin into the object : By.xpath: //input[@id='txtUsername']
+2019-06-04 13:38:35.390 [      main]INFO                           - Entering the value : admin123 into the object : By.id: txtPassword
+2019-06-04 13:38:47.144 [      main]TRACE                          - Entering into method : enter_employee_details
+2019-06-04 13:38:47.145 [      main]INFO                           - Entering the value : DavidWarner into the object : By.id: firstName
+2019-06-04 13:38:47.754 [      main]INFO                           - Entering the value : dsadsa into the object : By.id: middleName
+2019-06-04 13:38:48.194 [      main]INFO                           - Entering the value : Warner into the object : By.id: lastName
+2019-06-04 13:38:48.739 [      main]INFO                           - Entering the value : e1218 into the object : By.id: employeeId
+2019-06-04 13:38:49.226 [      main]TRACE                          - Completed the method : enter_employee_details
+2019-06-04 13:39:13.109 [      main]TRACE                          - Completed the test case : CE_003_pim_CreateANewEmployee_custom_empId
+2019-06-04 13:39:17.295 [      main]TRACE                          - Execution has been completed.

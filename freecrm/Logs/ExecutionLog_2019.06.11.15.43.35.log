@@ -1,0 +1,8 @@
+2019-06-11 15:43:36.576 [      main]TRACE                          - Initializing the log file in before suit.
+2019-06-11 15:43:36.595 [      main]TRACE                          - beforeTest annotation is being executed for the test : ChromeTest
+2019-06-11 15:43:36.611 [      main]TRACE                          - Enviroment taken as : qa
+2019-06-11 15:43:36.611 [      main]TRACE                          - Enviroment file taken  as : F:\Dummy\sampleproject\Config\Config_qa.properties
+2019-06-11 15:43:36.642 [      main]TRACE                          - Executing the test case : CE_001_crm_CreateANewCompany
+2019-06-11 15:43:36.642 [      main]TRACE                          - Entering into the method launchApplication with browser : chromeurl : https://www.crmpro.com/index.html
+2019-06-11 15:43:57.355 [      main]TRACE                          - Completed the test case : CE_001_crm_CreateANewCompany
+2019-06-11 15:43:58.699 [      main]TRACE                          - Execution has been completed.

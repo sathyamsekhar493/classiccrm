@@ -1,0 +1,18 @@
+2019-06-03 18:07:11.895 [      main]TRACE                          - Initializing the log file in before suit.
+2019-06-03 18:07:11.908 [      main]TRACE                          - beforeTest annotation is being executed for the test : ChromeTest
+2019-06-03 18:07:11.940 [      main]TRACE                          - Enviroment taken as : qa
+2019-06-03 18:07:11.940 [      main]TRACE                          - Enviroment file taken  as : D:\Users\SURESH\eclipse-workspace\reports\sampleproject\Config\Config_qa.properties
+2019-06-03 18:07:11.955 [      main]TRACE                          - Executing the test case : CE_003_pim_CreateANewEmployee_custom_empId
+2019-06-03 18:07:11.955 [      main]TRACE                          - Entering into the method launchApplication with browser : chromeurl : https://opensource-demo.orangehrmlive.com
+2019-06-03 18:07:15.889 [      main]INFO                           - browser launched.
+2019-06-03 18:07:22.277 [      main]INFO                           - navigated to https://opensource-demo.orangehrmlive.com
+2019-06-03 18:07:22.277 [      main]INFO                           - verifying application launch is success or not.
+2019-06-03 18:07:22.754 [      main]TRACE                          - Launch Application is executed successfully.
+2019-06-03 18:07:23.748 [      main]INFO                           - Entering the value : admin into the object : By.xpath: //input[@id='txtUsername']
+2019-06-03 18:07:24.040 [      main]INFO                           - Entering the value : admin123 into the object : By.id: txtPassword
+2019-06-03 18:07:33.510 [      main]TRACE                          - Entering into method : enter_employee_details
+2019-06-03 18:07:33.510 [      main]INFO                           - Entering the value : David into the object : By.id: firstName
+2019-06-03 18:07:33.769 [      main]INFO                           - Entering the value : dsadsa into the object : By.id: middleName
+2019-06-03 18:07:34.005 [      main]INFO                           - Entering the value : Warner into the object : By.id: lastName
+2019-06-03 18:07:34.297 [      main]INFO                           - Entering the value : e1213 into the object : By.id: employeeId
+2019-06-03 18:07:34.541 [      main]TRACE                          - Completed the method : enter_employee_details

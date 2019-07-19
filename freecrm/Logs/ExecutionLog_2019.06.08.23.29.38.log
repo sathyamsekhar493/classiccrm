@@ -1,0 +1,19 @@
+2019-06-08 23:29:39.185 [      main]TRACE                          - Initializing the log file in before suit.
+2019-06-08 23:29:39.198 [      main]TRACE                          - beforeTest annotation is being executed for the test : ChromeTest
+2019-06-08 23:29:39.259 [      main]TRACE                          - Enviroment taken as : qa
+2019-06-08 23:29:39.260 [      main]TRACE                          - Enviroment file taken  as : F:\Dummy\sampleproject\Config\Config_qa.properties
+2019-06-08 23:29:39.284 [      main]TRACE                          - Executing the test case : CE_003_pim_CreateANewEmployee_custom_empId
+2019-06-08 23:29:39.297 [      main]TRACE                          - Entering into the method launchApplication with browser : chromeurl : https://www.crmpro.com/index.html
+2019-06-08 23:29:46.260 [      main]INFO                           - browser launched.
+2019-06-08 23:29:53.419 [      main]INFO                           - navigated to https://www.crmpro.com/index.html
+2019-06-08 23:29:53.420 [      main]INFO                           - verifying application launch is success or not.
+2019-06-08 23:29:53.883 [      main]TRACE                          - Launch Application is executed successfully.
+2019-06-08 23:29:53.891 [      main]INFO                           - Executing the business flow for : CE_003_pim_CreateANewEmployee_custom_empId
+2019-06-08 23:29:53.942 [      main]TRACE                          - Entering into the Getting Workbook
+2019-06-08 23:29:58.118 [      main]INFO                           - Succesfully found File: F:\Dummy\sampleproject\TestData\pim.xlsx
+2019-06-08 23:29:58.119 [      main]INFO                           - File Exist
+2019-06-08 23:29:58.119 [      main]TRACE                          - Succesfully get the Workbook Data
+2019-06-08 23:29:58.527 [      main]INFO                           - Entering the value : sathyamsekhar493 into the object : By.name: username
+2019-06-08 23:30:01.014 [      main]INFO                           - Entering the value : soma1995 into the object : By.name: password
+2019-06-08 23:30:21.422 [      main]TRACE                          - Completed the test case : CE_003_pim_CreateANewEmployee_custom_empId
+2019-06-08 23:30:24.010 [      main]TRACE                          - Execution has been completed.

@@ -1,0 +1,16 @@
+2019-06-04 11:08:33.914 [      main]TRACE                          - Initializing the log file in before suit.
+2019-06-04 11:08:33.941 [      main]TRACE                          - beforeTest annotation is being executed for the test : Default test
+2019-06-04 11:08:33.972 [      main]TRACE                          - Enviroment taken as : qa
+2019-06-04 11:08:33.972 [      main]TRACE                          - Enviroment file taken  as : E:\Orange_Hrm_Project\sampleproject\Config\Config_qa.properties
+2019-06-04 11:08:34.003 [      main]TRACE                          - Executing the test case : CE_003_pim_CreateANewEmployee_custom_empId
+2019-06-04 11:08:34.014 [      main]TRACE                          - Entering into the method launchApplication with browser : chromeurl : https://opensource-demo.orangehrmlive.com
+2019-06-04 11:08:41.527 [      main]INFO                           - browser launched.
+2019-06-04 11:08:46.389 [      main]INFO                           - navigated to https://opensource-demo.orangehrmlive.com
+2019-06-04 11:08:46.390 [      main]INFO                           - verifying application launch is success or not.
+2019-06-04 11:08:47.280 [      main]TRACE                          - Launch Application is executed successfully.
+2019-06-04 11:08:47.297 [      main]INFO                           - Executing the business flow for : CE_003_pim_CreateANewEmployee_custom_empId
+2019-06-04 11:08:47.301 [      main]TRACE                          - Entering into the Reading Data from ExcelSheet
+2019-06-04 11:08:47.302 [      main]INFO                           - Entering into the XSSFWorkbook
+2019-06-04 11:08:47.303 [      main]TRACE                          - Getting The File From Given path
+2019-06-04 11:08:47.358 [      main]TRACE                          - Completed the test case : CE_003_pim_CreateANewEmployee_custom_empId
+2019-06-04 11:08:49.980 [      main]TRACE                          - Execution has been completed.

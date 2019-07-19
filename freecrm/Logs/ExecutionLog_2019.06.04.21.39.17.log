@@ -1,0 +1,21 @@
+2019-06-04 21:39:20.591 [      main]TRACE                          - Initializing the log file in before suit.
+2019-06-04 21:39:20.627 [      main]TRACE                          - beforeTest annotation is being executed for the test : Default test
+2019-06-04 21:39:20.721 [      main]TRACE                          - Enviroment taken as : qa
+2019-06-04 21:39:20.722 [      main]TRACE                          - Enviroment file taken  as : E:\Orange_Hrm_Project\sampleproject\Config\Config_qa.properties
+2019-06-04 21:39:20.753 [      main]TRACE                          - Executing the test case : RE_001_Rectruitment_Add_Candidate
+2019-06-04 21:39:20.768 [      main]TRACE                          - Entering into the method launchApplication with browser : chromeurl : https://opensource-demo.orangehrmlive.com
+2019-06-04 21:39:31.704 [      main]INFO                           - browser launched.
+2019-06-04 21:39:37.507 [      main]INFO                           - navigated to https://opensource-demo.orangehrmlive.com
+2019-06-04 21:39:37.508 [      main]INFO                           - verifying application launch is success or not.
+2019-06-04 21:39:38.303 [      main]TRACE                          - Launch Application is executed successfully.
+2019-06-04 21:39:38.335 [      main]TRACE                          - Executing Business Flow for: RE_001_Rectruitment_Add_Candidate
+2019-06-04 21:39:38.335 [      main]TRACE                          - Entering into the Getting Workbook
+2019-06-04 21:39:38.335 [      main]INFO                           - Entering the value : admin into the object : By.xpath: //input[@id='txtUsername']
+2019-06-04 21:39:38.752 [      main]INFO                           - Entering the value : admin123 into the object : By.id: txtPassword
+2019-06-04 21:39:44.874 [      main]TRACE                          - Entering into the Recruitment Page
+2019-06-04 21:39:47.582 [      main]TRACE                          - Clicking on Add Candidate Link
+2019-06-04 21:39:48.923 [      main]TRACE                          - Clicked on Add Link
+2019-06-04 21:39:48.923 [      main]TRACE                          - Succesfully Navigated to Add Candidate Page
+2019-06-04 21:39:49.008 [      main]INFO                           - Entering into the method :  Entering_Candidate_Details
+2019-06-04 21:39:49.032 [      main]TRACE                          - Completed the test case : RE_001_Rectruitment_Add_Candidate
+2019-06-04 21:39:51.869 [      main]TRACE                          - Execution has been completed.

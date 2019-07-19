@@ -1,0 +1,26 @@
+<ObjectInfo>
+	<userName locator="name" value="username"></userName>
+	<passWord locator="name" value="password" />
+	<loginButton locator="xpath" value="//input[@value='Login']" />
+	<elementAfterLogin locator="xpath" value="//td[text()='CRMPRO']" />
+	<pimLink locator="linktext" value="PIM" />
+	<saveButton locator="id" value="btnSave" />
+	
+	<NewEventLink locator="xpath" value="//input[@value='New']" />
+	<Calendar locator="xpath" value="//a[@title='Calendar']" />
+	<NewEvent locator="xpath" value="//a[@title='New Event']" />
+	<SaveEvent locator="xpath" value="//input[@value='Save']" />
+
+
+<newCompany>
+<CompanyLink locator="xpath" value="//a[contains(text(),'Companies')]" />
+<NewCompanyLink locator="xpath" value="//a[contains(text(),'New Company')]" />
+<NewCompanySaveBtn locator="xpath" value="//tr[8]//td[1]//input[1]" />
+
+<address locator="xpath" value="//input[@title='New Address']" />
+</newCompany>
+<Calender>
+<CalendarLink locator="xpath" value="//a[@title='Calendar']" />
+<NewCalendarLink locator="xpath" value="//a[@title='New Event']" />
+</Calender>
+</ObjectInfo>

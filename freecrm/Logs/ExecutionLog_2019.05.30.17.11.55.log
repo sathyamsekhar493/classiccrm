@@ -1,0 +1,4 @@
+2019-05-30 17:11:56.203 [      main]TRACE                          - Initializing the log file in before suit.
+2019-05-30 17:11:56.257 [      main]TRACE                          - beforeTest annotation is being executed for the test : ChromeTest
+2019-05-30 17:11:56.270 [      main]TRACE                          - Enviroment taken as : qa
+2019-05-30 17:11:56.271 [      main]TRACE                          - Enviroment file taken  as : D:\Users\SURESH\eclipse-workspace\reports\sampleproject\Config\Config_qa.properties

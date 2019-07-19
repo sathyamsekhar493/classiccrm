@@ -1,0 +1,24 @@
+2019-06-12 07:41:00.338 [      main]TRACE                          - Initializing the log file in before suit.
+2019-06-12 07:41:00.348 [      main]TRACE                          - beforeTest annotation is being executed for the test : Default test
+2019-06-12 07:41:00.356 [      main]TRACE                          - Enviroment taken as : qa
+2019-06-12 07:41:00.357 [      main]TRACE                          - Enviroment file taken  as : F:\Dummy\sampleproject\Config\Config_qa.properties
+2019-06-12 07:41:00.378 [      main]TRACE                          - Executing the test case : CE_003_crm_CreateANewEvent_InCalendar
+2019-06-12 07:41:00.427 [      main]TRACE                          - Entering into the method launchApplication with browser : chromeurl : https://www.crmpro.com/index.html
+2019-06-12 07:41:29.533 [      main]INFO                           - browser launched.
+2019-06-12 07:41:37.873 [      main]INFO                           - navigated to https://www.crmpro.com/index.html
+2019-06-12 07:41:37.873 [      main]INFO                           - verifying application launch is success or not.
+2019-06-12 07:41:40.532 [      main]TRACE                          - Launch Application is executed successfully.
+2019-06-12 07:41:40.540 [      main]INFO                           - Executing the business flow for : CE_001_crm_CreateANewCompany
+2019-06-12 07:41:40.557 [      main]TRACE                          - Entering into the Getting Workbook
+2019-06-12 07:41:46.968 [      main]INFO                           - Succesfully found File: F:\Dummy\sampleproject\TestData\company.xlsx
+2019-06-12 07:41:46.968 [      main]INFO                           - File Exist
+2019-06-12 07:41:46.969 [      main]TRACE                          - Succesfully get the Workbook Data
+2019-06-12 07:41:47.040 [      main]INFO                           - Entering the value : sathyamsekhar493 into the object : By.name: username
+2019-06-12 07:41:49.600 [      main]INFO                           - Entering the value : soma1995 into the object : By.name: password
+2019-06-12 07:41:57.255 [      main]INFO                           - Switching to New Event 
+2019-06-12 07:41:59.731 [      main]TRACE                          - Successfully Switched to New Event 
+2019-06-12 07:41:59.733 [      main]TRACE                          - Entering into method : enter_event_details
+2019-06-12 07:41:59.733 [      main]INFO                           - Entering the value : Testing Event into the object : By.id: title
+2019-06-12 07:42:01.257 [      main]TRACE                          - Select Calendar with date : 12-06-2019  3:44:00 AM
+2019-06-12 07:42:21.338 [      main]TRACE                          - Completed the test case : CE_003_crm_CreateANewEvent_InCalendar
+2019-06-12 07:42:23.761 [      main]TRACE                          - Execution has been completed.

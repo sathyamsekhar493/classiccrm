@@ -1,0 +1,9 @@
+2019-06-11 13:42:34.865 [      main]TRACE                          - Initializing the log file in before suit.
+2019-06-11 13:42:34.879 [      main]TRACE                          - beforeTest annotation is being executed for the test : Default test
+2019-06-11 13:42:34.885 [      main]TRACE                          - Enviroment taken as : qa
+2019-06-11 13:42:34.885 [      main]TRACE                          - Enviroment file taken  as : F:\Dummy\sampleproject\Config\Config_qa.properties
+2019-06-11 13:42:34.913 [      main]TRACE                          - Executing the test case : RE_002_Rectruitment_Add_Candidate
+2019-06-11 13:42:34.925 [      main]TRACE                          - Entering into the method launchApplication with browser : chromeurl : https://www.crmpro.com/index.html
+2019-06-11 13:42:38.292 [      main]INFO                           - browser launched.
+2019-06-11 13:42:43.780 [      main]INFO                           - navigated to https://www.crmpro.com/index.html
+2019-06-11 13:42:43.780 [      main]INFO                           - verifying application launch is success or not.

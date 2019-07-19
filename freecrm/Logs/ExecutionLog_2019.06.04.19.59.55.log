@@ -1,0 +1,17 @@
+2019-06-04 19:59:57.933 [      main]TRACE                          - Initializing the log file in before suit.
+2019-06-04 19:59:57.963 [      main]TRACE                          - beforeTest annotation is being executed for the test : ChromeTest
+2019-06-04 19:59:57.986 [      main]TRACE                          - Enviroment taken as : qa
+2019-06-04 19:59:57.987 [      main]TRACE                          - Enviroment file taken  as : E:\Orange_Hrm_Project\sampleproject\Config\Config_qa.properties
+2019-06-04 19:59:58.024 [      main]TRACE                          - Executing the test case : RE_001_Rectruitment_Add_Candidate
+2019-06-04 19:59:58.037 [      main]TRACE                          - Entering into the method launchApplication with browser : chromeurl : https://opensource-demo.orangehrmlive.com
+2019-06-04 20:00:08.988 [      main]INFO                           - browser launched.
+2019-06-04 20:00:14.784 [      main]INFO                           - navigated to https://opensource-demo.orangehrmlive.com
+2019-06-04 20:00:14.784 [      main]INFO                           - verifying application launch is success or not.
+2019-06-04 20:00:15.628 [      main]TRACE                          - Launch Application is executed successfully.
+2019-06-04 20:00:15.659 [      main]TRACE                          - Executing Business Flow for: RE_001_Rectruitment_Add_Candidate
+2019-06-04 20:00:15.659 [      main]TRACE                          - Entering into the Getting Workbook
+2019-06-04 20:00:15.713 [      main]INFO                           - Entering the value : admin into the object : By.xpath: //input[@id='txtUsername']
+2019-06-04 20:00:25.603 [      main]INFO                           - Entering the value : admin123 into the object : By.id: txtPassword
+2019-06-04 20:00:36.004 [      main]TRACE                          - Entering into the Recruitment Page
+2019-06-04 20:00:39.907 [      main]TRACE                          - Completed the test case : RE_001_Rectruitment_Add_Candidate
+2019-06-04 20:00:42.982 [      main]TRACE                          - Execution has been completed.

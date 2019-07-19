@@ -1,0 +1,29 @@
+2019-06-05 12:46:20.287 [      main]TRACE                          - Initializing the log file in before suit.
+2019-06-05 12:46:20.338 [      main]TRACE                          - beforeTest annotation is being executed for the test : Default test
+2019-06-05 12:46:20.480 [      main]TRACE                          - Enviroment taken as : qa
+2019-06-05 12:46:20.480 [      main]TRACE                          - Enviroment file taken  as : E:\Orange_Hrm_Project\sampleproject\Config\Config_qa.properties
+2019-06-05 12:46:20.515 [      main]TRACE                          - Executing the test case : RE_001_Rectruitment_Job_Vacancy
+2019-06-05 12:46:20.631 [      main]TRACE                          - Entering into the method launchApplication with browser : chromeurl : https://opensource-demo.orangehrmlive.com
+2019-06-05 12:46:34.789 [      main]INFO                           - browser launched.
+2019-06-05 12:46:41.020 [      main]INFO                           - navigated to https://opensource-demo.orangehrmlive.com
+2019-06-05 12:46:41.021 [      main]INFO                           - verifying application launch is success or not.
+2019-06-05 12:46:42.149 [      main]TRACE                          - Launch Application is executed successfully.
+2019-06-05 12:46:42.172 [      main]TRACE                          - Executing Business Flow For: 001_Rectruitment_Job_Vacancy
+2019-06-05 12:46:42.253 [      main]TRACE                          - Entering into the Getting Workbook
+2019-06-05 12:46:46.606 [      main]INFO                           - Succesfully found File: E:\Orange_Hrm_Project\sampleproject\TestData.\pim.xlsx
+2019-06-05 12:46:46.609 [      main]INFO                           - File Exist
+2019-06-05 12:46:46.610 [      main]TRACE                          - Succesfully get the Workbook Data
+2019-06-05 12:46:46.689 [      main]INFO                           - Entering the value : admin into the object : By.xpath: //input[@id='txtUsername']
+2019-06-05 12:46:47.702 [      main]INFO                           - Entering the value : admin123 into the object : By.id: txtPassword
+2019-06-05 12:46:53.822 [      main]TRACE                          - Entering into the Recruitment Page
+2019-06-05 12:46:56.570 [      main]INFO                           - Clicking on Job Vacancies 
+2019-06-05 12:46:59.010 [      main]INFO                           - Succesfully Clicked on Vacancy List and Add Link
+2019-06-05 12:46:59.097 [      main]INFO                           - succesfully Navigated to the Job Vacancy Page
+2019-06-05 12:46:59.098 [      main]INFO                           - Navigating into the Vacancy Job List
+2019-06-05 12:46:59.160 [      main]INFO                           - Entering into the Method: Entering_Job_Vacancy_Details
+2019-06-05 12:47:00.235 [      main]INFO                           - Entering the value : selenium into the object : By.id: addJobVacancy_name
+2019-06-05 12:47:00.719 [      main]INFO                           - Entering the value : Sally May into the object : By.id: addJobVacancy_hiringManager
+2019-06-05 12:47:01.738 [      main]INFO                           - Entering the value : 2 into the object : By.id: addJobVacancy_noOfPositions
+2019-06-05 12:47:02.113 [      main]INFO                           - Entering the value : selenium and manual testing experinece into the object : By.id: addJobVacancy_description
+2019-06-05 12:47:03.239 [      main]TRACE                          - Completed the test case : RE_001_Rectruitment_Job_Vacancy
+2019-06-05 12:47:07.843 [      main]TRACE                          - Execution has been completed.
