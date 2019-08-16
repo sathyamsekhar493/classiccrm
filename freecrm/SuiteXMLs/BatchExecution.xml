@@ -6,9 +6,9 @@
 		<parameter name="browser" value="chrome" />
 		<parameter name="environment" value="qa" />
 		<classes>
-			<class name="tests.freecrm.CreateCompany">
+			<class name="tests.crm.Strings">
 				<methods>
-					<include name="CE_002_crm_CreateANewCompany" />
+					<include name="regex" />
 				</methods>
 			</class>
 		</classes>

@@ -3,18 +3,20 @@ package tests.crm;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import org.testng.annotations.Test;
+
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
 public class Strings {
 
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 		/*
 		 * regex(); splitString(); RemoveDuplicateCharacters(); ConcatString();
-		 */
+		 
 		MakeCapitalFirstWordInLine();
-	}
-
+	}*/
+@Test
 	public static void regex() {
 
 		String input = "The the string String string stringing.";

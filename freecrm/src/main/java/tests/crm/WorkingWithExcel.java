@@ -21,7 +21,7 @@ public class WorkingWithExcel {
 	@Test
 	public static void ReadBasicExcel() {
 		try {
-			FileInputStream fis = new FileInputStream("F:\\Dummy\\sampleproject\\TestData\\Data.xlsx");
+			FileInputStream fis = new FileInputStream("C:\\Users\\Gourav Singh\\git\\classiccrm\\freecrm\\TestData\\Data.xlsx");
 			XSSFWorkbook w = new XSSFWorkbook(fis);
 			XSSFSheet st = w.getSheet("Sheet1");
 			int usedrows = st.getPhysicalNumberOfRows();

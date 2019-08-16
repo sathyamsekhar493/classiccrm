@@ -255,6 +255,7 @@ public class EventMethods {
 		if (listBox != null) {
 			if (waitforElement_to_visible(listBox, 20)) {
 				if (waitforElement_to_enable(listBox, 20)) {
+					
 					List<WebElement> allOptions = listBox.findElements(By.tagName("Option"));
 					boolean isOptionFound = false;
 					for (WebElement opt : allOptions) {

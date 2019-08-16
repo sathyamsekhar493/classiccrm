@@ -1,6 +1,5 @@
 package tests.crm;
 
-import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;
@@ -9,7 +8,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.interactions.SendKeysAction;
 
 public class SelectingElementInFrame {
 
@@ -35,8 +33,8 @@ public class SelectingElementInFrame {
 			Thread.sleep(20);
 			driver.quit(); // Quitting the browser
 
-		} catch (InterruptedException ie) {
-			System.out.println("Interuption has been occured before Quitting the Browser");
+		} catch (Exception ie) {
+			System.out.println(ie.getMessage());
 
 		}
 	}
